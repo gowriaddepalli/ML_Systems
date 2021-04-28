@@ -8,6 +8,7 @@ This is the repository of ML Systems, good resources to update yourself.
 
 - https://stanford-cs329s.github.io/syllabus.html
 - https://www.youtube.com/watch?v=OEiNnfdxBRE&list=PLSrTvUm384I9PV10koj_cqit9OfbJXEkq
+- http://patrickhalina.com/posts/ml-eng-interview-guide/
 
 ## Educative:
 
