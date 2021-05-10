@@ -9,6 +9,8 @@ This is the repository of ML Systems, good resources to update yourself.
 - https://stanford-cs329s.github.io/syllabus.html
 - https://www.youtube.com/watch?v=OEiNnfdxBRE&list=PLSrTvUm384I9PV10koj_cqit9OfbJXEkq
 - http://patrickhalina.com/posts/ml-eng-interview-guide/
+- Production ML systems Coursera (https://www.coursera.org/learn/gcp-production-ml-systems?utm_source=gg&utm_medium=sem&utm_content=01-CatalogDSA-ML1-US&campaignid=9918777773&adgroupid=100491712477&device=c&keyword=&matchtype=b&network=g&devicemodel=&adpostion=&creativeid=432357975999&hide_mobile_promo&gclid=EAIaIQobChMI9KW1tve_8AIVC67ICh1pCgUOEAAYAiAAEgJX6_D_BwE#about)
+- Full Stack Deep Learning (https://fullstackdeeplearning.com/spring2021/)
 
 ## Educative:
 
