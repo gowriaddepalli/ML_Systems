@@ -37,3 +37,8 @@ This is the repository of ML Systems, good resources to update yourself.
 - https://www.linkedin.com/posts/ameya-shanbhag_explain-it-to-me-like-a-5-year-old-introduction-activity-6776724598198173696-RNRL
 - https://www.linkedin.com/posts/ameya-shanbhag_explain-it-to-me-like-a-5-year-old-deep-activity-6775199010513817600-aU2y
 - https://www.linkedin.com/posts/ameya-shanbhag_explain-it-to-me-like-a-5-year-old-beginners-activity-6769314332858716160-qCqb
+
+
+## People:
+
+- https://sites.google.com/view/haibinlin/
